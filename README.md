@@ -3,4 +3,4 @@ A proposed a gradient vector-based reduction algorithm for n-dimensional piecewi
 This work is currently in the experimental phase.
 
 Project Digest/Brief Introduction: 
-Code files have been uploaded. 
+Code files to be uploaded. 
