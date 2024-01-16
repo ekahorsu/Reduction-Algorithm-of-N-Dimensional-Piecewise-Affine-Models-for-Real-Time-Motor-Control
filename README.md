@@ -1,0 +1,1 @@
+# Reduction-Algorithm-of-N-Dimensional-Piecewise-Affine-Models-for-Real-Time-Motor-Control
